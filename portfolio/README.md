@@ -1,4 +1,4 @@
-# Horiseon Social Solution Services 
+# Portfolio
 Horizon Social Solution provides Search Engine Optimization, Brand Awareness, and Cost Management services.This website has been updated and structured to be more accessible.
 
 ## Submission
@@ -35,4 +35,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock-Up
 
-![Screenshot](./assets/images/01-html-css-git-homework-demo.png)
+![Screenshot](./assets/images/portfolio.png)
