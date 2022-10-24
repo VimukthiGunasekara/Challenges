@@ -1,5 +1,5 @@
 # Portfolio
-Horizon Social Solution provides Search Engine Optimization, Brand Awareness, and Cost Management services.This website has been updated and structured to be more accessible.
+
 
 ## Submission
 
