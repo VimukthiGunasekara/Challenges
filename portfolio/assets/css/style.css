@@ -170,7 +170,7 @@ header div a:hover {
     background-size: cover;
     background-position: center;
     opacity: 0.8;
-    height: 250px;
+    height: 300px;
 }
 
 .project:hover {
@@ -217,4 +217,33 @@ header div a:hover {
     background-color: var(--color-secondary);
     color: var(--color-third);
     padding: 0px 20px;
+}
+
+@media screen and (max-width: 575px) {
+    header {
+        justify-content: center;
+        padding: 20px 0px;
+    }
+
+    header div {
+        min-height: 80px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .card {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .line {
+        display: none;
+    }
+
+
+    .title {
+        text-align: left;
+        margin-bottom: 25px;
+    }
 }
