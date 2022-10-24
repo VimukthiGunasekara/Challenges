@@ -197,7 +197,7 @@ header div a:hover {
 
 .vpac {
     transform: 1000ms ease-out;
-    background-image: url("../images/VPAC.jpg");
+    background-image: url("../images/qr-code-component-desktop-design.jpg");
 }
 
 .vpac:hover {
@@ -206,7 +206,7 @@ header div a:hover {
 
 .flyme {
     transform: 1000ms ease-out;
-    background-image: url("../images/flymeInternational.jpg");
+    background-image: url("../images/qr-code-component-desktop-design.jpg");
 }
 
 .flyme:hover {
