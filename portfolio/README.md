@@ -36,3 +36,4 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock-Up
 
 ![Screenshot](./assets/images/portfolio.png)
+![Screenshot](./assets/images/portfolio-mobile-view.png)
