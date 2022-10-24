@@ -1,4 +1,4 @@
-# challenges.
+# Front End Challenges.
 
 Standards and best practice session for various front-end technologies.
 
@@ -11,22 +11,13 @@ Originally from my GitHub:
 
 ## Table of content
 
-- 1st Mini Project
-  - <a href="https://vimukthigunasekara.github.io/practice-session/1st-mini-project/Main/"> Deployed URL </a>
-  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/1st-mini-project/Main"> Repo Folder </a>
+- Horiseon Social Solution Services
+  - <a href="https://vimukthigunasekara.github.io/challenges/horiseon/"> Deployed URL </a>
+  - <a href="https://github.com/VimukthiGunasekara/challenges/tree/main/horiseon"> Repo Folder </a>
     
-- QR Code Component
-  - <a href="https://vimukthigunasekara.github.io/practice-session/qr-code-component"> Deployed URL </a>
-  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/qr-code-component"> Repo Folder </a>
-  
-- Product Preview Card Component
-  - <a href="https://vimukthigunasekara.github.io/practice-session/product-preview-card-component"> Deployed URL </a>
-  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/product-preview-card-component"> Repo Folder </a>
-  
-- Stats Preview Card Component
-  - <a href="https://vimukthigunasekara.github.io/practice-session/stats-preview-card-component/"> Deployed URL </a>
-  - <a href="https://github.com/VimukthiGunasekara/practice-session/tree/main/stats-preview-card-component"> Repo Folder </a>
-  
+- Portfolio
+  - <a href="https://vimukthigunasekara.github.io/challenges/portfolio/"> Deployed URL </a>
+  - <a href="https://github.com/VimukthiGunasekara/challenges/tree/main/portfolio"> Repo Folder </a>
   
 
 
