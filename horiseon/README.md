@@ -3,7 +3,7 @@ Horizon Social Solution provides Search Engine Optimization, Brand Awareness, an
 
 ## Submission
 
-Deployed URL: https://vimukthigunasekara.github.io/horiseon/
+Deployed URL: https://vimukthigunasekara.github.io/challenges/horiseon/
 <br>
 GitHub Repo URL: https://github.com/VimukthiGunasekara/horiseon
 
