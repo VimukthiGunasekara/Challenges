@@ -133,7 +133,7 @@ header div a:hover {
     font-size: 0.75rem;
     letter-spacing: 0.05rem;
     background-color: var(--color-secondary);
-    width: 50%;
+    width: 80%;
     text-align: center;
     height: 18px;
     margin: 4px;
@@ -246,6 +246,10 @@ header div a:hover {
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
+    }
+
+    .tag{
+        height: 50px;
     }
 
     .line {
